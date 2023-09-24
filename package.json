@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "cross-env NODE_ENV=production node ./src/main.js",
     "dev": "cross-env NODE_ENV=development nodemon ./src/main.js"
