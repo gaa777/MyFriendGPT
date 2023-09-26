@@ -1,4 +1,5 @@
 { 
-    "TELEGRAM_TOKEN": "5708345143:AAGZV4_5jyojCN4L0eV2nD7_f9GufGkRfVg",
-    "OPENAI_KEY": "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" 
-}
+"TELEGRAM_TOKEN": "5708345143:AAGZV4_5jyojCN4L0eV2nD7_f9GufGkRfVg",
+"OPENAI_KEY": "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",
+"MONGO_SRV": "mongodb+srv://gaa777:3m4oK5Fzgya8FipU@cluster0.x62iglv.mongodb.net/?retryWrites=true&w=majority"
+ }
